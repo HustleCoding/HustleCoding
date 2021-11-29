@@ -1,4 +1,4 @@
-![alt README header](https://images.unsplash.com/photo-1596443686812-2f45229eebc3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1171&q=80)
+![alt README header](https://images.unsplash.com/photo-1554290712-e640351074bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1072&q=80)
 
 ## Front-End Developer (JS, TS & React)
 
