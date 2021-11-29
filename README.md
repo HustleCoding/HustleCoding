@@ -1,8 +1,8 @@
 ![alt README header](https://images.unsplash.com/photo-1596443686812-2f45229eebc3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1171&q=80)
 
-## Web Developer (JS, TS & React)
+## Front-End Developer (JS, TS & React)
 
-🔭 Currently working as an intern at Thinslices. I work with great people and we are using great technologies! 
+🔭 Currently working at Thinslices. I work with great people and we are using great technologies! 
 
 Long story short:
 
