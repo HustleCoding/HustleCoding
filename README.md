@@ -9,7 +9,7 @@ Long story short:
 🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat
 
 
-🌎 Check my [portfolio](https://www.florin-dobinciuc.com/)
+<a href="https://wakatime.com/@1c24646b-eb8a-4177-987b-f586ae3daa65"><img src="https://wakatime.com/badge/user/1c24646b-eb8a-4177-987b-f586ae3daa65.svg" alt="Total time coded since Jun 23 2021" /></a>
 
 I'm always doing some side projects, but I can't be bothered to keep my portfolio up to date. 
 
