@@ -1,25 +1,16 @@
-![alt README header](https://images.unsplash.com/photo-1554290712-e640351074bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1072&q=80)
 
-## Front-End Developer (JS, TS & React)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dobinciuc-florin-57a6121aa/) 
 
-🔭 Currently working at Thinslices. I work with great people and we are using great technologies! 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=HustleCoding&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HustleCoding&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HustleCoding&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-Long story short:
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-🥑 Eat 💻 Code 💪🏽 Train ♻️ Repeat
-
-
-<a href="https://wakatime.com/@1c24646b-eb8a-4177-987b-f586ae3daa65"><img src="https://wakatime.com/badge/user/1c24646b-eb8a-4177-987b-f586ae3daa65.svg" alt="Total time coded since Jun 23 2021" /></a>
-
-I'm always doing some side projects, but I can't be bothered to keep my portfolio up to date. 
-
-Feel free to reach out 💬
-
-<div align="center" style="background:#414a50; padding: 25px 0;">
-    <a href="https://twitter.com/hustle_coder">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
-    </a>
-     <a href="https://www.linkedin.com/in/dobinciuc-florin-57a6121aa/">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
-    </a>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=HustleCoding&icon=0&color=6)](https://visitcount.itsvg.in)
