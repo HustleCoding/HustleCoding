@@ -10,4 +10,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HustleCoding&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 [![my wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HustleCoding&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116)](https://github.com/anuraghazra/github-readme-stats)
-<img width="100%"  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@HustleCoding/02560392-fdc7-4432-8d57-4cda11edef2d.png" /></a>"
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@HustleCoding/02560392-fdc7-4432-8d57-4cda11edef2d.png" /></a>"
